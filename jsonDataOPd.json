@@ -1,0 +1,506 @@
+[
+  {
+    "id": 1,
+    "perangkatDaerah": "Sekretariat DPRD",
+    "alamat": "Jl. H. Somawinata, Kadu Agung, Tigaraksa Kec., Tangerang, Banten 15720",
+    "titikLokasi": "Gd. Sekretariat DPRD",
+    "long": -6.269841460273691,
+    "lat": 106.48464126549318
+  },
+  {
+    "id": 2,
+    "perangkatDaerah": "Sekretariat Daerah",
+    "alamat": "Jl. H. Somawinata, Kadu Agung, Tigaraksa Kec., Tangerang, Banten 15720",
+    "titikLokasi": "Gd. Bupati Tangerang, Tigaraksa",
+    "long": -6.270372873851266,
+    "lat": 106.48455708169165
+  },
+  {
+    "id": 3,
+    "perangkatDaerah": "Inspektorat",
+    "alamat": "Jl. H. Somawinata, Kadu Agung, Tigaraksa Kec., Tangerang, Banten 15720",
+    "titikLokasi": "Gd. Inspektorat Kabupaten Tangerang",
+    "long": -6.26785289147964,
+    "lat": 106.48413998901107
+  },
+  {
+    "id": 4,
+    "perangkatDaerah": "Badan Pendapatan Daerah",
+    "alamat": "Jl. H. Somawinata, Kadu Agung, Tigaraksa Kec., Tangerang, Banten 15720",
+    "titikLokasi": "Gd.  Usaha Daerah (GUD) Pemda Tigaraksa",
+    "long": -6.272957479476231,
+    "lat": 106.48549484938117
+  },
+  {
+    "id": 5,
+    "perangkatDaerah": "Badan Perencanaan Pembangunan Daerah",
+    "alamat": "Jl. H. Somawinata, Kadu Agung, Tigaraksa Kec., Tangerang, Banten 15720",
+    "titikLokasi": "Gd. Bappeda Pemda Tigaraksa",
+    "long": -6.26792125248251,
+    "lat": 106.48461133051747
+  },
+  {
+    "id": 6,
+    "perangkatDaerah": "Badan Pengelola Keuangan Daerah dan Aset",
+    "alamat": "Jl. Pemda Tigaraksa, Bojong, Kec. Cikupa, Tangerang, Banten 15710",
+    "titikLokasi": "Gd. BPKAD / BKPSDM Pemda Tigaraksa",
+    "long": -6.267313364147382,
+    "lat": 106.48274451311383
+  },
+  {
+    "id": 7,
+    "perangkatDaerah": "Badan Kepegawaian Pengembangan dan SDM",
+    "alamat": "Jl. Pemda Tigaraksa, Bojong, Kec. Cikupa, Tangerang, Banten 15710",
+    "titikLokasi": "Gd. BPKAD / BKPSDM Pemda Tigaraksa",
+    "long": -6.266196121961652,
+    "lat": 106.48280106130215
+  },
+  {
+    "id": 8,
+    "perangkatDaerah": "Dinas Pendidikan",
+    "alamat": "Jl. H. Abdul Hamid No.20, Kadu Agung, Tigaraksa Kec., Tangerang, Banten 15720",
+    "titikLokasi": "Gd. Dinas Pendidikan Pemda Tigaraksa",
+    "long": -6.273196786926194,
+    "lat": 106.48199101087677
+  },
+  {
+    "id": 9,
+    "perangkatDaerah": "Dinas Kesehatan",
+    "alamat": "Komplek Perkantoran Tigaraksa, Jl. H. Abdul Hamid No.RT.2, Kadu Agung, Tigaraksa Kec., Tangerang, Banten 15720",
+    "titikLokasi": "Gd. Dinas Kesehatan Pemda Tigaraksa",
+    "long": -6.272778761854392,
+    "lat": 106.48196361087686
+  },
+  {
+    "id": 10,
+    "perangkatDaerah": "RSU Kabupaten Tangerang",
+    "alamat": "Jl. Jend. Ahmad Yani No.9, RT.001/RW.003, Sukaasih, Kec. Tangerang, Kota Tangerang, Banten 15111",
+    "titikLokasi": "Gd. RSU Kabupaten Tangerang",
+    "long": -6.169570961648649,
+    "lat": 106.63562202622279
+  },
+  {
+    "id": 11,
+    "perangkatDaerah": "RSUD Balaraja",
+    "alamat": "jln Rumah Sakit No.88, Tobat, Kec. Balaraja, Tangerang, Banten 15610",
+    "titikLokasi": "Gd. RSUD Balaraja",
+    "long": -6.196193273903511,
+    "lat": 106.44236013971309
+  },
+  {
+    "id": 12,
+    "perangkatDaerah": "RSUD Pakuhaji",
+    "alamat": "Jl. Raya Pakuhaji No.88, Pakuhaji, Kecamatan Pakuhaji, Tangerang, Banten 15570",
+    "titikLokasi": "Gd. RSUD Pakuhaji",
+    "long": -6.070446159483851,
+    "lat": 106.59218403971236
+  },
+  {
+    "id": 13,
+    "perangkatDaerah": "Dinas Bina marga dan Sumber Daya Air",
+    "alamat": "PFGM+VJ7, Kadu Agung, Tigaraksa Kecamatan, Tangerang, Banten 15720",
+    "titikLokasi": "Gd. Dinas Bina marga dan Sumber Daya Air",
+    "long": -6.272725776892124,
+    "lat": 106.48401715079983
+  },
+  {
+    "id": 14,
+    "perangkatDaerah": "Dinas Tata Ruang dan Bangunan",
+    "alamat": "Blok AN 33 Jl. M. Atik Soehardi Blok AN 33 No.24, Kadu Agung, Tigaraksa Kec., Tangerang, Banten 15720",
+    "titikLokasi": "Gd. Dinas Tata Ruang dan Bangunan",
+    "long": -6.272897748931047,
+    "lat": 106.48364991107049
+  },
+  {
+    "id": 15,
+    "perangkatDaerah": "Badan Penanggulangan Bencana Daerah",
+    "alamat": "QH86+CHM, Kadu, Curug, Tangerang, Banten 15810",
+    "titikLokasi": "Gd. Badan Penanggulangan Bencana Daerah",
+    "long": -6.23369102214962,
+    "lat": 106.56138448204003
+  },
+  {
+    "id": 16,
+    "perangkatDaerah": "Dinas Perumahan Pemukiman dan Pemakaman",
+    "alamat": "Jl. H Abdul Hamid Tigaraksa Tangerang, Kadu Agung, Tigaraksa Kecamatan, Tangerang, Banten 15720",
+    "titikLokasi": "Gd. Dinas Perumahan Pemukiman dan Pemakaman",
+    "long": -6.273067044086541,
+    "lat": 106.48396350666815
+  },
+  {
+    "id": 17,
+    "perangkatDaerah": "Dinas Sosial",
+    "alamat": "Kadu Agung, Tigaraksa Kecamatan, Tangerang, Banten 15720",
+    "titikLokasi": "Gd. Dinas Sosial",
+    "long": -6.272757776041961,
+    "lat": 106.48391008534496
+  },
+  {
+    "id": 18,
+    "perangkatDaerah": "Dinas Tenaga Kerja",
+    "alamat": "Jl. Raya Kressek, Parahu, Kec. Sukamulya, Tangerang, Banten 15610",
+    "titikLokasi": "Gd. Dinas Tenaga Kerja",
+    "long": -6.17835223260579,
+    "lat": 106.44732415320304
+  },
+  {
+    "id": 19,
+    "perangkatDaerah": "Dinas Pemberdayaan Perempuan dan Perlindungan Anak",
+    "alamat": "PFJJ+MQJ, Kadu Agung, Tigaraksa Kecamatan, Tangerang, Banten 15720",
+    "titikLokasi": "Gd. Dinas Pemberdayaan Perempuan dan Perlindungan Anak",
+    "long": -6.2678994720748005,
+    "lat": 106.48196852622324
+  },
+  {
+    "id": 20,
+    "perangkatDaerah": "Dinas Lingkungan Hidup dan Kebersihan",
+    "alamat": "PFGM+W95, Kadu Agung, Tigaraksa Kecamatan, Tangerang, Banten 15720",
+    "titikLokasi": "Gd. Dinas Lingkungan Hidup dan Kebersihan",
+    "long": -6.272519238752831,
+    "lat": 106.48352188389642
+  },
+  {
+    "id": 21,
+    "perangkatDaerah": "Dinas Kependudukan dan Pencatatan Sipil",
+    "alamat": "Jl. M. Atik Soeardia, Kadu Agung, Tigaraksa Kec., Tangerang, Banten 15720",
+    "titikLokasi": "Gd. Dinas Kependudukan dan Pencatatan Sipil",
+    "long": -6.272857786032186,
+    "lat": 106.48497816792042
+  },
+  {
+    "id": 22,
+    "perangkatDaerah": "Dinas Pemberdayaan Masyarakat dan Pemerintahan Desa",
+    "alamat": "PFJJ+MQJ, Kadu Agung, Tigaraksa Kecamatan, Tangerang, Banten 15720",
+    "titikLokasi": "Gd. Dinas Pemberdayaan Masyarakat dan Pemerintahan Desa",
+    "long": -6.268086101545576,
+    "lat": 106.48192591273309
+  },
+  {
+    "id": 23,
+    "perangkatDaerah": "Dinas Penegendalian Penduduk dan Keluarga Berencana",
+    "alamat": "PFJJ+QVM, Kadu Agung, Tigaraksa Kecamatan, Tangerang, Banten 15720",
+    "titikLokasi": "Gd. Dinas Penegendalian Penduduk dan Keluarga Berencana",
+    "long": -6.26786606025033,
+    "lat": 106.48217592622325
+  },
+  {
+    "id": 24,
+    "perangkatDaerah": "Dinas Perhubungan",
+    "alamat": "Parahu, Sukamulya, Tangerang, Banten 15610",
+    "titikLokasi": "Gd. Dinas Perhubungan",
+    "long": -6.180926533289018,
+    "lat": 106.44590453971298
+  },
+  {
+    "id": 25,
+    "perangkatDaerah": "Dinas Komunikasi dan Informatika",
+    "alamat": "Jl. H. Somawinata No.1, Kadu Agung, Tigaraksa Kec., Tangerang, Banten 15119",
+    "titikLokasi": "Gd. Dinas Komunikasi dan Informatika",
+    "long": -6.269929066141509,
+    "lat": 106.48439401273306
+  },
+  {
+    "id": 26,
+    "perangkatDaerah": "Dinas Koperasi dan Usaha Mikro",
+    "alamat": "Jl. M. Atik Soeardia, Kadu Agung, Tigaraksa Kec., Tangerang, Banten 15720",
+    "titikLokasi": "Gd. Dinas Koperasi dan Usaha Mikro",
+    "long": -6.275263946268643,
+    "lat": 106.48438193129618
+  },
+  {
+    "id": 27,
+    "perangkatDaerah": "Dinas Pemuda Olah Raga, Kebudayaan dan Pariwisata",
+    "alamat": "Blok AN 33, Jl. M. Atik Soeardia Blok AN 33 No.24, Kadu Agung, Tigaraksa Kec., Tangerang, Banten 15720",
+    "titikLokasi": "Gd. Dinas Pemuda Olah Raga, Kebudayaan dan Pariwisata",
+    "long": -6.272364715659409,
+    "lat": 106.48509965320353
+  },
+  {
+    "id": 28,
+    "perangkatDaerah": "Dinas Perpustakaan dan Arsip",
+    "alamat": "Jl. H. Abdul Hamid No.20, Kadu Agung, Tigaraksa Kec., Tangerang, Banten 15720",
+    "titikLokasi": "Gd. Dinas Perpustakaan dan Arsip",
+    "long": -6.273610938207785,
+    "lat": 106.48189820561956
+  },
+  {
+    "id": 29,
+    "perangkatDaerah": "Dinas Perikanan",
+    "alamat": "Jl. H. Somawinata No.4, Kadu Agung, Tigaraksa Kec., Tangerang, Banten 15720",
+    "titikLokasi": "Gd. Dinas Perikanan",
+    "long": -6.272235204920962,
+    "lat": 106.48552455239579
+  },
+  {
+    "id": 30,
+    "perangkatDaerah": "Dinas Pertanian dan Ketahanan Pangan",
+    "alamat": "Blok AN 33, Jl. M. Atik Soeardia Blok AN 33 No.24, Kadu Agung, Tigaraksa Kec., Tangerang, Banten 15720",
+    "titikLokasi": "Gd. Dinas Pertanian dan Ketahanan Pangan",
+    "long": -6.272805761409691,
+    "lat": 106.4850042037685
+  },
+  {
+    "id": 31,
+    "perangkatDaerah": "Dinas Perindustrian dan Perdagangan",
+    "alamat": "Komplek Perkantoran Pemda Kab. Tangerang Gedung Usaha - Usaha Daerah, Jl. H. Somawinata No.4, Kadu Agung, Tigaraksa Kec., Tangerang, Banten 15720",
+    "titikLokasi": "Gd. Dinas Perindustrian dan Perdagangan",
+    "long": -6.272821758316754,
+    "lat": 106.48583032423934
+  },
+  {
+    "id": 32,
+    "perangkatDaerah": "Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu",
+    "alamat": "Jl. H. Somawinata, Kadu Agung, Tigaraksa Kec., Tangerang, Banten 15720",
+    "titikLokasi": "Gd. Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu",
+    "long": -6.268273285980675,
+    "lat": 106.48270286828483
+  },
+  {
+    "id": 33,
+    "perangkatDaerah": "Satuan Polisi Pamong Praja",
+    "alamat": "Blok AN 33, Jl. M. Atik Soeardia Blok AN 33 No.28, Kadu Agung, Tigaraksa Kec., Tangerang, Banten 15720",
+    "titikLokasi": "Gd. Satuan Polisi Pamong Praja",
+    "long": -6.275274610819757,
+    "lat": 106.48438193129618
+  },
+  {
+    "id": 34,
+    "perangkatDaerah": "Kantor Kesatuan bangsa dan Politik",
+    "alamat": "PFHM+2G6, Kadu Agung, Tigaraksa Kecamatan, Tangerang, Banten 15720",
+    "titikLokasi": "Gd. Kantor Kesatuan bangsa dan Politik",
+    "long": -6.271703432203676,
+    "lat": 106.48377996563185
+  },
+  {
+    "id": 35,
+    "perangkatDaerah": "Kecamatan Tigaraksa",
+    "alamat": "Kampung Tegal Baju, Jl. Aria Jaya Santika No.19, Tigaraksa, Tigaraksa Kec., Tangerang, Banten 15720",
+    "titikLokasi": "Gd. Kecamatan Tigaraksa",
+    "long": -6.261122639362559,
+    "lat": 106.46624539553022
+  },
+  {
+    "id": 36,
+    "perangkatDaerah": "Kecamatan Cikupa",
+    "alamat": "Jl. KH Syekh Nawawi No.81, Budi Mulya, Kec. Cikupa, Tangerang, Banten 15710",
+    "titikLokasi": "Gd. Kecamatan Cikupa",
+    "long": -6.240662090375986,
+    "lat": 106.49221760109903
+  },
+  {
+    "id": 37,
+    "perangkatDaerah": "Kecamatan Panongan",
+    "alamat": "Jl. Raya Panongan No.1, Ciakar, Kec. Panongan, Tangerang, Banten 15710",
+    "titikLokasi": "Gd. Kecamatan Panongan",
+    "long": -6.2797747352305695,
+    "lat": 106.532324299243
+  },
+  {
+    "id": 38,
+    "perangkatDaerah": "Kecamatan Curug",
+    "alamat": "QH47+2MP, Kadu Jaya, Curug, Tangerang, Banten 15810",
+    "titikLokasi": "Gd. Kecamatan Curug",
+    "long": -6.244626170614918,
+    "lat": 106.56422522622317
+  },
+  {
+    "id": 39,
+    "perangkatDaerah": "Kecamatan Legok",
+    "alamat": "Jl. Alun Alun TImur No.1, Caringin, Kec. Legok, Tangerang, Banten 15820",
+    "titikLokasi": "Gd. Kecamatan Legok",
+    "long": -6.310881755257949,
+    "lat": 106.57360822807979
+  },
+  {
+    "id": 40,
+    "perangkatDaerah": "Kecamatan Pasar Kemis",
+    "alamat": "Jalan Cempaka V Blok HL No.12, PasarKemis, Sukamantri, Tangerang, Banten 15560",
+    "titikLokasi": "Gd. Kecamatan Pasar Kemis",
+    "long": -6.156434155508522,
+    "lat": 106.54920914528174
+  },
+  {
+    "id": 41,
+    "perangkatDaerah": "Kecamatan Balaraja",
+    "alamat": "Pasar Modern Simpang Baleraja Jalan Raya Serang Blok PK5, Talagasari, Kec. Balaraja, Tangerang, Banten 15610",
+    "titikLokasi": "Gd. Kecamatan Balaraja",
+    "long": -6.1908549364779555,
+    "lat": 106.46597219552986
+  },
+  {
+    "id": 42,
+    "perangkatDaerah": "Kecamatan Kresek",
+    "alamat": "Jl. Raya Kresek, Kresek, Tangerang, Banten, 15620",
+    "titikLokasi": "Ed. Kecamatan Kresek",
+    "long": -6.134042680010101,
+    "lat": 106.37879102622256
+  },
+  {
+    "id": 43,
+    "perangkatDaerah": "Kecamatan Kronjo",
+    "alamat": "Gg. Majlis No.15, Pagedangan Ilir, Kronjo, Tangerang, Banten 15550",
+    "titikLokasi": "Gd. Kecamatan Kronjo",
+    "long": -6.0617295810112575,
+    "lat": 106.42777731273198
+  },
+  {
+    "id": 44,
+    "perangkatDaerah": "Kecamatan Mauk",
+    "alamat": "WGR7+W2W, Mauk Tim., Kec. Mauk, Tangerang, Banten 15330",
+    "titikLokasi": "Gd. Kecamatan Mauk",
+    "long": -6.0573882412690105,
+    "lat": 106.51258056854888
+  },
+  {
+    "id": 45,
+    "perangkatDaerah": "Kecamatan Rajeg",
+    "alamat": "Jl. Rajawali No.33, Mekarsari, Kec. Rajeg, Tangerang, Banten 15540",
+    "titikLokasi": "Gd. Kecamatan Rajeg",
+    "long": -6.125556076452543,
+    "lat": 106.52645699367314
+  },
+  {
+    "id": 46,
+    "perangkatDaerah": "Kecamatan Sepatan",
+    "alamat": "Jl. Raya Mauk No.89, Sepatan, Kec. Sepatan, Tangerang, Banten 15520",
+    "titikLokasi": "Gd. Kecamatan Sepatan",
+    "long": -6.118465708916797,
+    "lat": 106.57466938389564
+  },
+  {
+    "id": 47,
+    "perangkatDaerah": "Kecamatan Teluknaga",
+    "alamat": "Jl. Tj. Pasir No.76, Pangkalan, Kec. Teluknaga, Tangerang, Banten 15510",
+    "titikLokasi": "Gd. Kecamatan Teluknaga",
+    "long": -6.065472526485296,
+    "lat": 106.64642681087571
+  },
+  {
+    "id": 48,
+    "perangkatDaerah": "Kecamatan Cisoka",
+    "alamat": "Jl. Megu - Cisoka No.8, Cisoka, Kec. Cisoka, Tangerang, Banten 15730",
+    "titikLokasi": "Gd. Kecamatan Cisoka",
+    "long": -6.262654658550019,
+    "lat": 106.42179552622326
+  },
+  {
+    "id": 49,
+    "perangkatDaerah": "Kecamatan Pakuhaji",
+    "alamat": "Jl. Raya Pakuhaji, Pakuhaji, Tangerang, Banten 15570",
+    "titikLokasi": "Gd. Kecamatan Pakuhaji",
+    "long": -6.059107263725803,
+    "lat": 106.59569816487424
+  },
+  {
+    "id": 50,
+    "perangkatDaerah": "Kecamatan Kosambi",
+    "alamat": "Jl. Raya Salembaran No.38, Salembaran, Kec. Kosambi, Tangerang, Banten 15214",
+    "titikLokasi": "Gd. Kecamatan Kosambi",
+    "long": -6.072946148420698,
+    "lat": 106.66614833502429
+  },
+  {
+    "id": 51,
+    "perangkatDaerah": "Kecamatan Pagedangan",
+    "alamat": "Jl. Raya Pagedangan No.2, Pagedangan, Kec. Pagedangan, Tangerang, Banten 15339",
+    "titikLokasi": "Gd. Kecamatan Pagedangan",
+    "long": -6.29521834850676,
+    "lat": 106.62918861087688
+  },
+  {
+    "id": 52,
+    "perangkatDaerah": "Kecamatan Jambe",
+    "alamat": "MFMP+J46, Tipar Raya, Jambe, Tangerang, Banten 15720",
+    "titikLokasi": "Gd. Kecamatan Jambe",
+    "long": -6.31574112107137,
+    "lat": 106.48526699738683
+  },
+  {
+    "id": 53,
+    "perangkatDaerah": "Kecamatan Jayanti",
+    "alamat": "Jl. Raya Serang, Cikande, Jayanti, Tangerang, Banten 15610",
+    "titikLokasi": "Gd. Kecamatan Jayanti",
+    "long": -6.207249042764741,
+    "lat": 106.38569639738634
+  },
+  {
+    "id": 54,
+    "perangkatDaerah": "Kecamatan Kemiri",
+    "alamat": "VFX9+V89, Kemiri, Tangerang, Banten 15530",
+    "titikLokasi": "Gd. Kecamatan Kemiri",
+    "long": -6.100062293465449,
+    "lat": 106.46837545505899
+  },
+  {
+    "id": 55,
+    "perangkatDaerah": "Kecamatan Sukadiri",
+    "alamat": "Jalan Sukadiri Raya No. 01, Sukadiri, Tangerang, Banten 15530",
+    "titikLokasi": "Gd. Kecamatan Sukadiri",
+    "long": -6.066125982921405,
+    "lat": 106.5572351108758
+  },
+  {
+    "id": 56,
+    "perangkatDaerah": "Kecamatan Cisoka",
+    "alamat": "Jl. Raya Cisoka No.15, Solear, Kec. Solear, Tangerang, Banten 15730",
+    "titikLokasi": "Gd. Kecamatan Cisoka",
+    "long": -6.29657701320152,
+    "lat": 106.41285939553043
+  },
+  {
+    "id": 57,
+    "perangkatDaerah": "Kecamatan Sepatan Timur",
+    "alamat": "kantor near, Kedaung Bar., Kec. Sepatan Tim., Tangerang, Banten 15520",
+    "titikLokasi": "Gd. Kecamatan Sepatan Timur",
+    "long": -6.121716339542525,
+    "lat": 106.60572563971262
+  },
+  {
+    "id": 58,
+    "perangkatDaerah": "Kecamatan SIndang Jaya",
+    "alamat": "RFMX+QJM, Sindang Jaya, Kec. Sindang Jaya, Tangerang, Banten 15560",
+    "titikLokasi": "Gd. Kecamatan SIndang Jaya",
+    "long": -6.165098000403324,
+    "lat": 106.49887451595036
+  },
+  {
+    "id": 59,
+    "perangkatDaerah": "Kecamatan Kelapa Dua",
+    "alamat": "Jalan Kelapa Cengkir Tengah Kelapa Dua, Curug Sangereng, Kec. Klp. Dua, Tangerang, Banten 15810",
+    "titikLokasi": "Gd. Kecamatan Kelapa Dua",
+    "long": -6.246622553328319,
+    "lat": 106.61429131087664
+  },
+  {
+    "id": 60,
+    "perangkatDaerah": "Kecamatan Solear",
+    "alamat": "Jl. Raya Cisoka No.15, Solear, Kec. Solear, Tangerang, Banten 15730",
+    "titikLokasi": "Gd. Kecamatan Solear",
+    "long": -6.296662326108516,
+    "lat": 106.41291303971353
+  },
+  {
+    "id": 61,
+    "perangkatDaerah": "Kecamatan Mekar Baru",
+    "alamat": "W9QM+2W9, Mekar Baru, Mekarbaru, Tangerang, Banten 15550",
+    "titikLokasi": "Gd. Kecamatan Mekar Baru",
+    "long": -6.062367244935572,
+    "lat": 106.38486319738549
+  },
+  {
+    "id": 62,
+    "perangkatDaerah": "Kecamatan Sukamulya",
+    "alamat": "RCPF+56J, Sukamulya, Kec. Sukamulya, Tangerang, Banten 15610",
+    "titikLokasi": "Gd. Kecamatan Sukamulya",
+    "long": -6.1643974271492885,
+    "lat": 106.42296538203962
+  },
+  {
+    "id": 63,
+    "perangkatDaerah": "Kecamatan  Gunung Kaler",
+    "alamat": "W956+GP8, Onyam, Gunung Kaler, Tangerang, Banten 15620",
+    "titikLokasi": "Gd. Kecamatan  Gunung Kaler",
+    "long": -6.091030635082056,
+    "lat": 106.36171490901962
+  }
+]
